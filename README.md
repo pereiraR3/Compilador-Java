@@ -21,10 +21,6 @@ All tokens must be stored in a **symbol table**, and any lexical **errors must b
 
 The analyzer continues processing until **all errors are found** and **reported clearly** in the output.
 
----
-
-
----
 
 ## 🧪 Input Example
 
