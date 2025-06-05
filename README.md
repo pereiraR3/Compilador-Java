@@ -23,5 +23,22 @@ The analyzer continues processing until **all errors are found** and **reported 
 
 ---
 
-## 🗂️ Repository Structure
 
+---
+
+## 🧪 Input Example
+
+Sample input (from `Programa_fonte.txt`):
+
+```pascal
+progra Soma;
+
+var
+  x,y,z: intege;
+begi
+  y=1;
+  z=1;
+  i=0;
+  x:=y+z+i;
+  writeln (x);
+end.
